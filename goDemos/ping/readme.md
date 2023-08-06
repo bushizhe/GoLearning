@@ -2,7 +2,7 @@
 File `ping.go` implement ping command via Go.
 
 ## Usage
-```go
+```bash
 go run ping.go www.baidu.com
 ```
 
