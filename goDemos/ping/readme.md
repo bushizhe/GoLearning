@@ -5,3 +5,4 @@ File `ping.go` implement ping command via Go.
 ```go
 go run ping.go www.baidu.com
 ```
+
